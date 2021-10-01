@@ -1,0 +1,37 @@
+.pagina-index{ color: red;
+
+    font: normal 30px Arial, Helvetica, sans-serif;
+
+    line-height: 3em;
+    margin:}
+
+
+
+body { 
+
+        color: red;
+
+        font: normal 12px Arial, Helvetica, sans-serif;
+
+        line-height: 1.6em;
+        margin: 5; 
+
+}
+
+
+
+.black-border{
+border:5px solid black;}
+
+.container{ 
+    width: 80%;
+    margin: auto;
+}
+
+.blue-border{background-color: rgb(0, 255, 106);
+border:10px solid blue;}
+
+#green-background {
+    background-color: rgb(128, 83, 0);
+}
+
